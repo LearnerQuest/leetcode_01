@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
@@ -55,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
