@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Backtracking
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
