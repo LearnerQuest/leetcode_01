@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -46,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
