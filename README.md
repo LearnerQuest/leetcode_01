@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Math
 |  |
 | ------- |
