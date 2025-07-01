@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
