@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Union Find
 |  |
 | ------- |
@@ -107,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3618-find-the-original-typed-string-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
