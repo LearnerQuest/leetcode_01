@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Monotonic Stack
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Counting
 |  |
 | ------- |
