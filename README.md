@@ -1,158 +1,66 @@
-# leetcode_01
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 LeetCode Mastery — One Problem at a Time!
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
-| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
-## Design
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
-## Queue
-|  |
-| ------- |
-| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
-## Array
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
-| [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LearnerQuest/leetcode_01/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
-| [1510-find-lucky-integer-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array) |
-| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
-| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
-| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
-| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram) |
-## Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
-| [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
-| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
-| [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
-| [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
-| [0684-redundant-connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection) |
-| [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
-| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
-| [0684-redundant-connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection) |
-| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
-## Binary Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
-| [0101-symmetric-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree) |
-| [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
-| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
-| [1021-distribute-coins-in-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree) |
-## Backtracking
-|  |
-| ------- |
-| [0113-path-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0113-path-sum-ii) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0098-validate-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree) |
-| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
-| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
-| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
-## Math
-|  |
-| ------- |
-| [0150-evaluate-reverse-polish-notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation) |
-| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
-## Union Find
-|  |
-| ------- |
-| [0684-redundant-connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection) |
-| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
-## Matrix
-|  |
-| ------- |
-| [2764-maximum-number-of-fish-in-a-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid) |
-## Graph
-|  |
-| ------- |
-| [0684-redundant-connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection) |
-## String
-|  |
-| ------- |
-| [3617-find-the-original-typed-string-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3617-find-the-original-typed-string-i) |
-| [3618-find-the-original-typed-string-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3618-find-the-original-typed-string-ii) |
-## Dynamic Programming
-|  |
-| ------- |
-| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
-| [3618-find-the-original-typed-string-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3618-find-the-original-typed-string-ii) |
-## Prefix Sum
-|  |
-| ------- |
-| [3618-find-the-original-typed-string-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3618-find-the-original-typed-string-ii) |
-## Bit Manipulation
-|  |
-| ------- |
-| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
-## Recursion
-|  |
-| ------- |
-| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
-## Simulation
-|  |
-| ------- |
-| [3600-find-the-k-th-character-in-string-game-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3600-find-the-k-th-character-in-string-game-i) |
-## Hash Table
-|  |
-| ------- |
-| [1510-find-lucky-integer-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array) |
-| [1995-finding-pairs-with-a-certain-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum) |
-## Counting
-|  |
-| ------- |
-| [1510-find-lucky-integer-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array) |
-## Greedy
-|  |
-| ------- |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LearnerQuest/leetcode_01/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
-| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
-## Sorting
-|  |
-| ------- |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LearnerQuest/leetcode_01/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
-| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/LearnerQuest/leetcode_01/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
-## Sliding Window
-|  |
-| ------- |
-| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
-<!---LeetCode Topics End-->
+*A curated collection of LeetCode problems to help you ace your coding interviews, one problem at a time.*
+
+Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0) 🚀
+
+---
+
+## 🧠 Topics Covered
+
+### 🧱 **Stacks & Queues**
+
+Sharpen your skills with essential data structures:
+
+* 🔺 [Largest Rectangle in Histogram](https://github.com/LearnerQuest/leetcode_01/tree/master/0084-largest-rectangle-in-histogram)
+* 🔁 [Evaluate Reverse Polish Notation](https://github.com/LearnerQuest/leetcode_01/tree/master/0150-evaluate-reverse-polish-notation)
+* 🔄 [Implement Queue Using Stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks)
+
+### 🛠️ **Design & Implementation**
+
+Think like a system designer:
+
+* 🎲 [Finding Pairs With a Certain Sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1995-finding-pairs-with-a-certain-sum)
+
+### 🧮 **Arrays & Math**
+
+Get comfortable with core algorithms:
+
+* 🧩 [Kth Smallest Product of Two Sorted Arrays](https://github.com/LearnerQuest/leetcode_01/tree/master/2150-kth-smallest-product-of-two-sorted-arrays)
+* 🍀 [Find Lucky Integer in an Array](https://github.com/LearnerQuest/leetcode_01/tree/master/1510-find-lucky-integer-in-an-array)
+* 🎣 [Maximum Number of Fish in a Grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2764-maximum-number-of-fish-in-a-grid)
+
+### 🌲 **Trees, DFS & BFS**
+
+Master tree traversals and recursion:
+
+* 🌳 [Validate Binary Search Tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0098-validate-binary-search-tree)
+* 🔄 [Symmetric Tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0101-symmetric-tree)
+* 📏 [Maximum Depth of Binary Tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree)
+* 🌐 [Distribute Coins in Binary Tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1021-distribute-coins-in-binary-tree)
+
+### 🔍 **Graph & Union Find**
+
+Tackle connectivity and networks:
+
+* 🕸️ [Redundant Connection](https://github.com/LearnerQuest/leetcode_01/tree/master/0684-redundant-connection)
+
+### 📅 **Greedy, Heap & Sorting**
+
+Optimise your solutions smartly:
+
+* 📅 [Max Events That Can Be Attended](https://github.com/LearnerQuest/leetcode_01/tree/master/1478-maximum-number-of-events-that-can-be-attended)
+* 🔢 [Max Events That Can Be Attended II](https://github.com/LearnerQuest/leetcode_01/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii)
+
+### 🔠 **Strings, Prefix Sum & DP**
+
+Improve your problem-solving toolkit:
+
+* 📝 [Find the Original Typed String I](https://github.com/LearnerQuest/leetcode_01/tree/master/3617-find-the-original-typed-string-i)
+* 📝 [Find the Original Typed String II](https://github.com/LearnerQuest/leetcode_01/tree/master/3618-find-the-original-typed-string-ii)
+
+---
+
+✨ **Keep solving, keep growing!** ✨
+
+> **Pro Tip:** Fork this repo, pick a topic, and challenge yourself daily! 🚀
