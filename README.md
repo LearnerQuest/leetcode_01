@@ -64,3 +64,19 @@ Improve your problem-solving toolkit:
 ✨ **Keep solving, keep growing!** ✨
 
 > **Pro Tip:** Fork this repo, pick a topic, and challenge yourself daily! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Greedy
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+<!---LeetCode Topics End-->
