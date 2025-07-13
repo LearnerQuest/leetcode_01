@@ -71,10 +71,12 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Greedy
 |  |
 | ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
 |  |
@@ -88,6 +90,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -104,4 +107,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LearnerQuest/leetcode_01/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Two Pointers
+|  |
+| ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 <!---LeetCode Topics End-->
