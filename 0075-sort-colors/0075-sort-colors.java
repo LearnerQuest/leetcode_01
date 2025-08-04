@@ -1,21 +1,19 @@
 class Solution {
     public void sortColors(int[] nums) {
-        for(int i=0;i<nums.length; i++){
-            int minPos =i;
-            for(int j=i+1; j<nums.length; j++){
-                if(nums[minPos]>nums[j]){
-                    minPos = j;
-                }
+        int low =0, mid =0, high = nums.length-1;
+        while(mid <= high){
+            if(nums[mid] ==0){
+                int tmp = nums[low];
+                nums[low++] = nums[mid];
+                nums[mid++] = tmp; 
+            }else if(nums[mid] ==1){
+                mid++;
+            }else {
+                int tmp = nums[mid];
+                nums[mid] = nums[high];
+                nums[high--] = tmp;
             }
-            int temp = nums[minPos];
-                nums[minPos] = nums[i];
-                nums[i]= temp; 
         }
-    }
-   // public int swap(int[] nums){
-        //swap
-                //int temp = nums[minPos];
-                //nums[minPos] = nums[i];
-               // nums[i]= temp; 
-    //}
+    }     
+   
 }
