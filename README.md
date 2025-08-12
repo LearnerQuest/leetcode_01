@@ -152,6 +152,7 @@ Improve your problem-solving toolkit:
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/LearnerQuest/leetcode_01/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Recursion
