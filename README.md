@@ -130,6 +130,7 @@ Improve your problem-solving toolkit:
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LearnerQuest/leetcode_01/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
@@ -158,6 +159,7 @@ Improve your problem-solving toolkit:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LearnerQuest/leetcode_01/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
