@@ -10,12 +10,14 @@ class Solution {
         return (int)((pow5*pow4)% MOD);
     }
     private long modPow(long base, long exp, long mod){
-        long result =1;
-        base %= mod;
-        while(exp>0){
-            if(exp%2 ==1) result =(result *base) % mod;
-            base = (base*base) % mod;
-            exp /= 2;
+        if (exp == 0) return 1;         
+        base %= mod;                    
+
+        long half = modPow(base, exp / 2, mod);
+        long result = (half * half) % mod;
+
+        if (exp % 2 == 1) {             
+            result = (result * base) % mod;
         }
         return result;
     }
