@@ -72,6 +72,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -144,6 +145,7 @@ Improve your problem-solving toolkit:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/LearnerQuest/leetcode_01/tree/master/0795-k-th-symbol-in-grammar) |
@@ -180,4 +182,5 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
