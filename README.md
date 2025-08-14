@@ -110,6 +110,7 @@ Improve your problem-solving toolkit:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LearnerQuest/leetcode_01/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
@@ -155,6 +156,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/LearnerQuest/leetcode_01/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Recursion
@@ -176,5 +178,6 @@ Improve your problem-solving toolkit:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
