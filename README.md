@@ -128,6 +128,7 @@ Improve your problem-solving toolkit:
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
 |  |
