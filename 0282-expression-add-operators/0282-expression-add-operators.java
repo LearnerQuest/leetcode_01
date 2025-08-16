@@ -1,30 +1,28 @@
 class Solution {
     public List<String> addOperators(String num, int target) {
-        List<String> ans = new ArrayList<>();
-        helper(0, 0, 0, "", num, target, ans);
-        return ans;
+        List<String> res = new ArrayList<>();
+        helper(num,target,res,0,"",0,0);
+        return res;
     }
-    public void helper(int index, long curVal, long prevVal, String expr, String num, 
-    int target, List<String> ans) {
-        if (index == num.length()) {
-            if (curVal == target) {
-                ans.add(expr);
-            }
+
+    private static void helper(String num,long target,List<String> res,int ind,String s,long curr,long prev){
+        if(ind == num.length()){
+            if(curr == target)
+                res.add(s);
             return;
         }
-        for (int i = index; i < num.length(); i++) {
-            if (i != index && num.charAt(index) == '0') break;
 
-            String part = num.substring(index, i + 1);
-            long val = Long.parseLong(part);
-
-            if (index == 0) {
-                helper(i + 1, val, val, part, num, target, ans);
-            } else {
-                helper(i + 1, curVal + val, val, expr + "+" + part, num, target, ans);
-                helper(i + 1, curVal - val, -val, expr + "-" + part, num, target, ans);
-                helper(i + 1, curVal - prevVal + prevVal * val, prevVal * val, expr + "*" + part,
-                 num, target, ans);
+        for(int i=ind;i<num.length();i++){
+            if(i > ind && num.charAt(ind) == '0')
+                break;
+            long n = Long.parseLong(num.substring(ind,i+1));
+            if(ind==0){
+                helper(num,target,res,i+1,s+n,n,n);
+            }
+            else{
+                helper(num,target,res,i+1,s+"*"+n,curr-prev+(prev*n),prev*n);
+                helper(num,target,res,i+1,s+"+"+n,curr+n,n);
+                helper(num,target,res,i+1,s+"-"+n,curr-n,-n);
             }
         }
     }
