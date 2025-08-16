@@ -115,6 +115,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LearnerQuest/leetcode_01/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Memoization
@@ -164,6 +165,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/LearnerQuest/leetcode_01/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Recursion
@@ -190,5 +192,6 @@ Improve your problem-solving toolkit:
 | [0040-combination-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
