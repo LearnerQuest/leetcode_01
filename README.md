@@ -76,6 +76,7 @@ Improve your problem-solving toolkit:
 | [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/LearnerQuest/leetcode_01/tree/master/0485-max-consecutive-ones) |
@@ -159,6 +160,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
