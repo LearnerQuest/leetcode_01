@@ -1,56 +1,56 @@
+import java.util.*;
+
 class Solution {
-    public List<List<String>> ans = new ArrayList<>();
 
     public List<List<String>> solveNQueens(int n) {
-        boolean[][] board = new boolean[n][n];  
-        queens(board, 0);                      
+        List<List<String>> ans = new ArrayList<>();
+        char[][] board = new char[n][n];
+
+        // fill board with '.'
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
+        }
+
+        nQueens(board, 0, n, ans);
         return ans;
     }
 
-    public void queens(boolean[][] board, int row) {
-        if (row == board.length) {
-            display(board);                     
+    private void nQueens(char[][] board, int row, int n, List<List<String>> ans) {
+        if (row == n) {
+            // convert board to List<String>
+            List<String> temp = new ArrayList<>();
+            for (int i = 0; i < n; i++) {
+                temp.add(new String(board[i]));
+            }
+            ans.add(temp);
             return;
         }
 
-        for (int col = 0; col < board.length; col++) {
-            if (isSafe(board, row, col)) {
-                board[row][col] = true;         
-                queens(board, row + 1);         
-                board[row][col] = false;        
+        for (int col = 0; col < n; col++) {
+            if (isSafe(board, row, col, n)) {
+                board[row][col] = 'Q';
+                nQueens(board, row + 1, n, ans);
+                board[row][col] = '.'; // backtrack
             }
         }
     }
 
-    public boolean isSafe(boolean[][] board, int row, int col) {
-      
+    private boolean isSafe(char[][] board, int row, int col, int n) {
+        // check column
         for (int i = 0; i < row; i++) {
-            if (board[i][col]) return false;
+            if (board[i][col] == 'Q') return false;
         }
 
-        int minLeft = Math.min(row, col);
-        for (int i = 1; i <= minLeft; i++) {
-            if (board[row - i][col - i]) return false;
+        // check left diagonal
+        for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
+            if (board[i][j] == 'Q') return false;
         }
 
-      
-        int minRight = Math.min(row, board.length - col - 1);
-        for (int i = 1; i <= minRight; i++) {
-            if (board[row - i][col + i]) return false;
+        // check right diagonal
+        for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
+            if (board[i][j] == 'Q') return false;
         }
 
-        return true; 
-    }
-
-    public void display(boolean[][] board) {
-        List<String> queenAns = new ArrayList<>();
-        for (boolean[] row : board) {
-            StringBuilder temp = new StringBuilder();
-            for (boolean cell : row) {
-                temp.append(cell ? 'Q' : '.');
-            }
-            queenAns.add(temp.toString());
-        }
-        ans.add(queenAns);  
+        return true;
     }
 }
