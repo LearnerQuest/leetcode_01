@@ -103,6 +103,7 @@ Improve your problem-solving toolkit:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
@@ -139,6 +140,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0908-middle-of-the-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -146,6 +148,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
