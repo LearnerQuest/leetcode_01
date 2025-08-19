@@ -147,6 +147,7 @@ Improve your problem-solving toolkit:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0237-delete-node-in-a-linked-list) |
@@ -155,6 +156,7 @@ Improve your problem-solving toolkit:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
@@ -197,6 +199,7 @@ Improve your problem-solving toolkit:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/LearnerQuest/leetcode_01/tree/master/0326-power-of-three) |
