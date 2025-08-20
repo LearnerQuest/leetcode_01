@@ -111,6 +111,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -142,6 +143,7 @@ Improve your problem-solving toolkit:
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LearnerQuest/leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
@@ -153,6 +155,7 @@ Improve your problem-solving toolkit:
 | [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LearnerQuest/leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
@@ -249,4 +252,12 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
