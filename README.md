@@ -140,6 +140,7 @@ Improve your problem-solving toolkit:
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
@@ -154,6 +155,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
