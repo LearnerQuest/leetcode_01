@@ -14,8 +14,8 @@ class Solution {
             return sign* (int) result;
         }
         result = result*10+(s.charAt(i) - '0');
-        if(sign *result >Integer.MAX_VALUE) return Integer.MAX_VALUE;
-        if(sign *result <Integer.MIN_VALUE) return Integer.MIN_VALUE;
+        if(sign *result >=Integer.MAX_VALUE) return Integer.MAX_VALUE;
+        if(sign *result <=Integer.MIN_VALUE) return Integer.MIN_VALUE;
         return getNum(s, i+1, result, sign);
     }
 }
