@@ -70,6 +70,7 @@ Improve your problem-solving toolkit:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0040-combination-sum-ii) |
@@ -100,6 +101,7 @@ Improve your problem-solving toolkit:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
