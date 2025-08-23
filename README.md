@@ -236,6 +236,7 @@ Improve your problem-solving toolkit:
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -264,6 +265,7 @@ Improve your problem-solving toolkit:
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -274,4 +276,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
