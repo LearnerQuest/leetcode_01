@@ -74,6 +74,7 @@ Improve your problem-solving toolkit:
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/LearnerQuest/leetcode_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
@@ -183,6 +184,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
@@ -277,6 +279,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
 ## Stack
 |  |
