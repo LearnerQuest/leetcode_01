@@ -331,6 +331,7 @@ Improve your problem-solving toolkit:
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -345,6 +346,7 @@ Improve your problem-solving toolkit:
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -369,4 +371,5 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
