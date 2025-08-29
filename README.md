@@ -88,6 +88,7 @@ Improve your problem-solving toolkit:
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/LearnerQuest/leetcode_01/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -306,6 +307,7 @@ Improve your problem-solving toolkit:
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -367,6 +369,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
