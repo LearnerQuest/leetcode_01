@@ -242,6 +242,7 @@ Improve your problem-solving toolkit:
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
@@ -386,4 +387,8 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
