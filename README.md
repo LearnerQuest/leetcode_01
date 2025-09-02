@@ -120,6 +120,7 @@ Improve your problem-solving toolkit:
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LearnerQuest/leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -240,6 +242,7 @@ Improve your problem-solving toolkit:
 | [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
