@@ -100,6 +100,7 @@ Improve your problem-solving toolkit:
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
@@ -209,6 +210,7 @@ Improve your problem-solving toolkit:
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LearnerQuest/leetcode_01/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -239,6 +241,7 @@ Improve your problem-solving toolkit:
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
