@@ -71,6 +71,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LearnerQuest/leetcode_01/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
@@ -231,6 +232,7 @@ Improve your problem-solving toolkit:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LearnerQuest/leetcode_01/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
