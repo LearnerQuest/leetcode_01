@@ -1,19 +1,31 @@
 class Solution {
-    public static int leftSearch(int[] nums,int target) {
-        int r = nums.length-1;
-        int l = 0;
-        while(l<=r) {
-            int m = l + (r-l)/2;
-            if(target > nums[m]) l = m+1;
-            else r = m-1;
-        }
-        return l;
-    }
     public int[] searchRange(int[] nums, int target) {
-        int[] result = new int[2];
-        int l = leftSearch(nums,target);
-        if(l== nums.length || target!=nums[l]) return new int[]{-1,-1};
-        int r = leftSearch(nums,target+1);
-        return new int[]{l,r-1};
+        int first = binarySearch(nums, target, true);   // find first occurrence
+        int last = binarySearch(nums, target, false);   // find last occurrence
+        return new int[] {first, last};
+    }
+
+    // Helper function: works for both first & last occurrence
+    private int binarySearch(int[] nums, int target, boolean findFirst) {
+        int left = 0, right = nums.length - 1;
+        int index = -1;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (nums[mid] == target) {
+                index = mid;  
+                if (findFirst) {
+                    right = mid - 1;   // keep searching left
+                } else {
+                    left = mid + 1;    // keep searching right
+                }
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        return index;
     }
 }
