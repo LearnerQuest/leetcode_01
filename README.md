@@ -89,6 +89,7 @@ Improve your problem-solving toolkit:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
@@ -146,6 +147,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
@@ -153,6 +155,7 @@ Improve your problem-solving toolkit:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -357,6 +360,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -445,4 +449,8 @@ Improve your problem-solving toolkit:
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
