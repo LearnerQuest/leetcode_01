@@ -89,6 +89,7 @@ Improve your problem-solving toolkit:
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
@@ -131,6 +132,7 @@ Improve your problem-solving toolkit:
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnerQuest/leetcode_01/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LearnerQuest/leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
@@ -175,6 +177,7 @@ Improve your problem-solving toolkit:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
@@ -183,6 +186,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LearnerQuest/leetcode_01/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Two Pointers
@@ -275,6 +279,7 @@ Improve your problem-solving toolkit:
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
@@ -456,4 +461,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
