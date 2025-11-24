@@ -1,6 +1,7 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
         int low = 0, high = 0;
+        //“What is the minimum ship capacity so that all packages can be shipped in days days?”
 
         for (int w : weights) {
             low = Math.max(low, w);   
