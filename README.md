@@ -104,6 +104,7 @@ Improve your problem-solving toolkit:
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -259,6 +260,7 @@ Improve your problem-solving toolkit:
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/LearnerQuest/leetcode_01/tree/master/0795-k-th-symbol-in-grammar) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LearnerQuest/leetcode_01/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
