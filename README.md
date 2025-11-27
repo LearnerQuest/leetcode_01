@@ -114,6 +114,7 @@ Improve your problem-solving toolkit:
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
@@ -150,6 +151,7 @@ Improve your problem-solving toolkit:
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3799-unique-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -452,6 +454,7 @@ Improve your problem-solving toolkit:
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
