@@ -118,6 +118,7 @@ Improve your problem-solving toolkit:
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/3799-unique-3-digit-even-numbers) |
 ## Greedy
@@ -157,6 +158,7 @@ Improve your problem-solving toolkit:
 | [1590-make-sum-divisible-by-p](https://github.com/LearnerQuest/leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -264,6 +266,7 @@ Improve your problem-solving toolkit:
 | [2050-count-good-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2050-count-good-numbers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -492,4 +495,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
