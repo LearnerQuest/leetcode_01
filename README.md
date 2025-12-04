@@ -186,6 +186,7 @@ Improve your problem-solving toolkit:
 | [0258-add-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 ## Dynamic Programming
 |  |
@@ -320,6 +321,7 @@ Improve your problem-solving toolkit:
 | [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
+| [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Improve your problem-solving toolkit:
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
 |  |
 | ------- |
