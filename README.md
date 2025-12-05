@@ -193,6 +193,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -255,6 +256,7 @@ Improve your problem-solving toolkit:
 | [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0258-add-digits) |
@@ -510,4 +512,8 @@ Improve your problem-solving toolkit:
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3625-count-number-of-trapezoids-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
