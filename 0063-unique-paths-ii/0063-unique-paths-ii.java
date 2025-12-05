@@ -1,26 +1,40 @@
 class Solution {
-    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
-        if (obstacleGrid == null || obstacleGrid[0][0] == 1) {
-            return 0;
-        }
-
-        int rows = obstacleGrid.length;
-        int cols = obstacleGrid[0].length;
-        int[] dp = new int[cols];
-        dp[0] = 1;
-
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (obstacleGrid[r][c] == 1) {
-                    dp[c] = 0;
-                } else {
-                    if (c > 0) {
-                        dp[c] += dp[c - 1];
-                    }
+    private int func(int m, int n, int[][] matrix) {
+        
+        int[] prev = new int[m];
+        int[] curr = new int[n];
+        
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                
+                if (matrix[i][j] == 1) {
+                    curr[j] = 0;
+                    continue;
                 }
+                if (i == 0 && j == 0) {
+                    curr[j] = 1;
+                    continue;
+                }
+
+                int up = 0;
+                int left = 0;
+
+                if (i > 0)
+                    up = prev[j];
+                if (j > 0)
+                    left = curr[j - 1];
+
+                curr[j] = up + left;
             }
+            
+            prev = curr.clone();
         }
 
-        return dp[cols - 1];
+        return prev[n - 1];
+    }
+    public int uniquePathsWithObstacles(int[][] matrix) {
+        int m = matrix.length;
+        int n = matrix[0].length;
+        return func(m, n, matrix);
     }
 }
