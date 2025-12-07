@@ -273,6 +273,7 @@ Improve your problem-solving toolkit:
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LearnerQuest/leetcode_01/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/LearnerQuest/leetcode_01/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2050-count-good-numbers) |
