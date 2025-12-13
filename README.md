@@ -126,6 +126,7 @@ Improve your problem-solving toolkit:
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/LearnerQuest/leetcode_01/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -170,6 +171,7 @@ Improve your problem-solving toolkit:
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/3799-unique-3-digit-even-numbers) |
@@ -186,6 +188,7 @@ Improve your problem-solving toolkit:
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,6 +345,7 @@ Improve your problem-solving toolkit:
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
 | ------- |
