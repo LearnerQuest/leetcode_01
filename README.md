@@ -124,6 +124,7 @@ Improve your problem-solving toolkit:
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/LearnerQuest/leetcode_01/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
@@ -225,6 +226,7 @@ Improve your problem-solving toolkit:
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/LearnerQuest/leetcode_01/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
@@ -408,6 +410,7 @@ Improve your problem-solving toolkit:
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LearnerQuest/leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -465,6 +468,7 @@ Improve your problem-solving toolkit:
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LearnerQuest/leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
 |  |
 | ------- |
