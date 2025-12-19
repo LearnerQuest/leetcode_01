@@ -187,6 +187,7 @@ Improve your problem-solving toolkit:
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -412,6 +413,7 @@ Improve your problem-solving toolkit:
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LearnerQuest/leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Matrix
@@ -498,6 +500,7 @@ Improve your problem-solving toolkit:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
+| [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Number Theory
 |  |
 | ------- |
@@ -570,4 +573,12 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/LearnerQuest/leetcode_01/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Union Find
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
