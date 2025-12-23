@@ -116,6 +116,7 @@ Improve your problem-solving toolkit:
 | [1590-make-sum-divisible-by-p](https://github.com/LearnerQuest/leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -191,6 +192,7 @@ Improve your problem-solving toolkit:
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
@@ -202,6 +204,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -231,6 +234,7 @@ Improve your problem-solving toolkit:
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/LearnerQuest/leetcode_01/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/LearnerQuest/leetcode_01/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -340,6 +344,7 @@ Improve your problem-solving toolkit:
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LearnerQuest/leetcode_01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 ## String
 |  |
