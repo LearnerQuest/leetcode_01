@@ -122,6 +122,7 @@ Improve your problem-solving toolkit:
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -147,6 +148,7 @@ Improve your problem-solving toolkit:
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Enumeration
 |  |
@@ -197,6 +199,7 @@ Improve your problem-solving toolkit:
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
