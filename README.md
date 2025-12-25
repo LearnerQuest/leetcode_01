@@ -224,6 +224,7 @@ Improve your problem-solving toolkit:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LearnerQuest/leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
@@ -257,6 +258,7 @@ Improve your problem-solving toolkit:
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/LearnerQuest/leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
@@ -356,6 +358,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LearnerQuest/leetcode_01/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/LearnerQuest/leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/LearnerQuest/leetcode_01/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0020-valid-parentheses) |
