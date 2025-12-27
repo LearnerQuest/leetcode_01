@@ -120,6 +120,7 @@ Improve your problem-solving toolkit:
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -183,6 +184,7 @@ Improve your problem-solving toolkit:
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/LearnerQuest/leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
@@ -203,6 +205,7 @@ Improve your problem-solving toolkit:
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
@@ -215,6 +218,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -223,6 +227,7 @@ Improve your problem-solving toolkit:
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
+| [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 ## Dynamic Programming
