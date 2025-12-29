@@ -180,6 +180,7 @@ Improve your problem-solving toolkit:
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
+| [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
@@ -347,6 +348,7 @@ Improve your problem-solving toolkit:
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/LearnerQuest/leetcode_01/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0795-k-th-symbol-in-grammar](https://github.com/LearnerQuest/leetcode_01/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LearnerQuest/leetcode_01/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -384,6 +386,7 @@ Improve your problem-solving toolkit:
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
+| [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -437,6 +440,7 @@ Improve your problem-solving toolkit:
 | [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
+| [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
