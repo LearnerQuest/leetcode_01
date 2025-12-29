@@ -77,6 +77,7 @@ Improve your problem-solving toolkit:
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/LearnerQuest/leetcode_01/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/LearnerQuest/leetcode_01/tree/master/0051-n-queens) |
@@ -147,6 +148,7 @@ Improve your problem-solving toolkit:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
@@ -237,6 +239,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LearnerQuest/leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
