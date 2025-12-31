@@ -312,6 +312,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
