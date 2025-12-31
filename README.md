@@ -118,6 +118,7 @@ Improve your problem-solving toolkit:
 | [1590-make-sum-divisible-by-p](https://github.com/LearnerQuest/leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -370,6 +371,7 @@ Improve your problem-solving toolkit:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LearnerQuest/leetcode_01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 ## String
@@ -458,6 +460,7 @@ Improve your problem-solving toolkit:
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LearnerQuest/leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -470,6 +473,7 @@ Improve your problem-solving toolkit:
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Stack
 |  |
@@ -546,6 +550,7 @@ Improve your problem-solving toolkit:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Number Theory
 |  |
@@ -623,6 +628,7 @@ Improve your problem-solving toolkit:
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
