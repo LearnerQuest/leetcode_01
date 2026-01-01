@@ -83,6 +83,7 @@ Improve your problem-solving toolkit:
 | [0051-n-queens](https://github.com/LearnerQuest/leetcode_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
+| [0066-plus-one](https://github.com/LearnerQuest/leetcode_01/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
@@ -317,6 +318,7 @@ Improve your problem-solving toolkit:
 | [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/LearnerQuest/leetcode_01/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/LearnerQuest/leetcode_01/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/LearnerQuest/leetcode_01/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0258-add-digits) |
