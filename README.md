@@ -110,6 +110,7 @@ Improve your problem-solving toolkit:
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LearnerQuest/leetcode_01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -185,6 +186,7 @@ Improve your problem-solving toolkit:
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
