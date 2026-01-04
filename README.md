@@ -117,6 +117,7 @@ Improve your problem-solving toolkit:
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/LearnerQuest/leetcode_01/tree/master/1390-four-divisors) |
 | [1590-make-sum-divisible-by-p](https://github.com/LearnerQuest/leetcode_01/tree/master/1590-make-sum-divisible-by-p) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -332,6 +333,7 @@ Improve your problem-solving toolkit:
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/LearnerQuest/leetcode_01/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LearnerQuest/leetcode_01/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LearnerQuest/leetcode_01/tree/master/1523-count-odd-numbers-in-an-interval-range) |
