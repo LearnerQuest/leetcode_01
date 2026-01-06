@@ -469,6 +469,7 @@ Improve your problem-solving toolkit:
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
@@ -563,6 +564,7 @@ Improve your problem-solving toolkit:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/LearnerQuest/leetcode_01/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
@@ -642,10 +644,12 @@ Improve your problem-solving toolkit:
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
