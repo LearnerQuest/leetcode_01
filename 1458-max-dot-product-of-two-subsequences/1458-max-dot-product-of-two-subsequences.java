@@ -10,10 +10,11 @@ class Solution {
                 int product = nums1[i-1]* nums2[j-1];
                 int max = product;
                 int candidate = product+ dp[i-1][j-1];
-                if(candidate>max) max = candidate;
-                if(dp[i-1][j]>max) max = dp[i-1][j];
-                if(dp[i][j-1]>max) max = dp[i][j-1];
-                dp[i][j] =max; 
+                int takeBoth = product + Math.max(0, dp[i - 1][j - 1]);
+                int skip1 = dp[i - 1][j];
+                int skip2 = dp[i][j - 1];
+
+                dp[i][j] = Math.max(takeBoth, Math.max(skip1, skip2));
             }
         }
         return dp[n][m];
