@@ -8,8 +8,6 @@ class Solution {
         for(int i=1; i<=n; i++){
             for(int j=1; j<=m; j++){
                 int product = nums1[i-1]* nums2[j-1];
-                int max = product;
-                int candidate = product+ dp[i-1][j-1];
                 int takeBoth = product + Math.max(0, dp[i - 1][j - 1]);
                 int skip1 = dp[i - 1][j];
                 int skip2 = dp[i][j - 1];
