@@ -193,6 +193,7 @@ Improve your problem-solving toolkit:
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -478,6 +479,7 @@ Improve your problem-solving toolkit:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -546,6 +548,7 @@ Improve your problem-solving toolkit:
 | [0450-delete-node-in-a-bst](https://github.com/LearnerQuest/leetcode_01/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/LearnerQuest/leetcode_01/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -567,6 +570,7 @@ Improve your problem-solving toolkit:
 | [0450-delete-node-in-a-bst](https://github.com/LearnerQuest/leetcode_01/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -582,6 +586,7 @@ Improve your problem-solving toolkit:
 | [0542-01-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
