@@ -486,6 +486,7 @@ Improve your problem-solving toolkit:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/LearnerQuest/leetcode_01/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -596,6 +597,7 @@ Improve your problem-solving toolkit:
 | [0542-01-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/LearnerQuest/leetcode_01/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/LearnerQuest/leetcode_01/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -679,6 +681,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0130-surrounded-regions](https://github.com/LearnerQuest/leetcode_01/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/LearnerQuest/leetcode_01/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
@@ -686,5 +689,6 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/LearnerQuest/leetcode_01/tree/master/0785-is-graph-bipartite) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
