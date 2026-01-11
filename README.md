@@ -88,6 +88,7 @@ Improve your problem-solving toolkit:
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/LearnerQuest/leetcode_01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/LearnerQuest/leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/LearnerQuest/leetcode_01/tree/master/0130-surrounded-regions) |
@@ -258,6 +259,7 @@ Improve your problem-solving toolkit:
 | [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/LearnerQuest/leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LearnerQuest/leetcode_01/tree/master/0131-palindrome-partitioning) |
@@ -503,6 +505,7 @@ Improve your problem-solving toolkit:
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/LearnerQuest/leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/LearnerQuest/leetcode_01/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
@@ -515,6 +518,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/LearnerQuest/leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/LearnerQuest/leetcode_01/tree/master/0145-binary-tree-postorder-traversal) |
@@ -610,6 +614,7 @@ Improve your problem-solving toolkit:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/LearnerQuest/leetcode_01/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
 ## Prefix Sum
