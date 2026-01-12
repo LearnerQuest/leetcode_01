@@ -120,6 +120,7 @@ Improve your problem-solving toolkit:
 | [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/LearnerQuest/leetcode_01/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/LearnerQuest/leetcode_01/tree/master/1390-four-divisors) |
@@ -347,6 +348,7 @@ Improve your problem-solving toolkit:
 | [0795-k-th-symbol-in-grammar](https://github.com/LearnerQuest/leetcode_01/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/LearnerQuest/leetcode_01/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/LearnerQuest/leetcode_01/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/LearnerQuest/leetcode_01/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -662,6 +664,7 @@ Improve your problem-solving toolkit:
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/LearnerQuest/leetcode_01/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Combinatorics
