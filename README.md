@@ -145,6 +145,7 @@ Improve your problem-solving toolkit:
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3454-separate-squares-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -401,6 +402,7 @@ Improve your problem-solving toolkit:
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/LearnerQuest/leetcode_01/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3453-separate-squares-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3454-separate-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -701,4 +703,12 @@ Improve your problem-solving toolkit:
 | [0547-number-of-provinces](https://github.com/LearnerQuest/leetcode_01/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/LearnerQuest/leetcode_01/tree/master/0785-is-graph-bipartite) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
