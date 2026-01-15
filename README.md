@@ -138,6 +138,7 @@ Improve your problem-solving toolkit:
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LearnerQuest/leetcode_01/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -230,6 +231,7 @@ Improve your problem-solving toolkit:
 | [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LearnerQuest/leetcode_01/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
