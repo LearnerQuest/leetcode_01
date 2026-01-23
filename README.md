@@ -154,6 +154,7 @@ Improve your problem-solving toolkit:
 | [3453-separate-squares-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/LearnerQuest/leetcode_01/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -220,6 +221,7 @@ Improve your problem-solving toolkit:
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/LearnerQuest/leetcode_01/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/LearnerQuest/leetcode_01/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/LearnerQuest/leetcode_01/tree/master/3606-coupon-code-validator) |
@@ -255,6 +257,7 @@ Improve your problem-solving toolkit:
 | [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -266,6 +269,7 @@ Improve your problem-solving toolkit:
 | [2479-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2479-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -345,6 +349,7 @@ Improve your problem-solving toolkit:
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/LearnerQuest/leetcode_01/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -755,8 +760,10 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
