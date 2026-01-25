@@ -133,6 +133,7 @@ Improve your problem-solving toolkit:
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -239,6 +240,7 @@ Improve your problem-solving toolkit:
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/LearnerQuest/leetcode_01/tree/master/2092-find-all-people-with-secret) |
 | [2094-finding-3-digit-even-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2094-finding-3-digit-even-numbers) |
@@ -693,6 +695,7 @@ Improve your problem-solving toolkit:
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LearnerQuest/leetcode_01/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Quickselect
