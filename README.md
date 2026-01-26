@@ -120,6 +120,7 @@ Improve your problem-solving toolkit:
 | [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/LearnerQuest/leetcode_01/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/LearnerQuest/leetcode_01/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -239,6 +240,7 @@ Improve your problem-solving toolkit:
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/LearnerQuest/leetcode_01/tree/master/2054-two-best-non-overlapping-events) |
