@@ -102,6 +102,7 @@ Improve your problem-solving toolkit:
 | [0213-house-robber-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
@@ -214,6 +215,7 @@ Improve your problem-solving toolkit:
 | [0160-intersection-of-two-linked-lists](https://github.com/LearnerQuest/leetcode_01/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
@@ -246,6 +248,7 @@ Improve your problem-solving toolkit:
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
