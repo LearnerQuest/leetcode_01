@@ -150,6 +150,7 @@ Improve your problem-solving toolkit:
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/LearnerQuest/leetcode_01/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/LearnerQuest/leetcode_01/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/LearnerQuest/leetcode_01/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LearnerQuest/leetcode_01/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -263,6 +264,7 @@ Improve your problem-solving toolkit:
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/LearnerQuest/leetcode_01/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/LearnerQuest/leetcode_01/tree/master/3024-type-of-triangle) |
 | [3074-apple-redistribution-into-boxes](https://github.com/LearnerQuest/leetcode_01/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/LearnerQuest/leetcode_01/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/LearnerQuest/leetcode_01/tree/master/3433-count-mentions-per-user) |
@@ -410,6 +412,7 @@ Improve your problem-solving toolkit:
 | [2050-count-good-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/LearnerQuest/leetcode_01/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3024-type-of-triangle](https://github.com/LearnerQuest/leetcode_01/tree/master/3024-type-of-triangle) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/LearnerQuest/leetcode_01/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/LearnerQuest/leetcode_01/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/3432-count-partitions-with-even-sum-difference) |
