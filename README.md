@@ -117,6 +117,7 @@ Improve your problem-solving toolkit:
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
+| [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -285,6 +286,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0258-add-digits) |
+| [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
@@ -613,6 +615,7 @@ Improve your problem-solving toolkit:
 | [0234-palindrome-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
 |  |
