@@ -106,6 +106,7 @@ Improve your problem-solving toolkit:
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/LearnerQuest/leetcode_01/tree/master/0485-max-consecutive-ones) |
@@ -644,6 +645,7 @@ Improve your problem-solving toolkit:
 | [0155-min-stack](https://github.com/LearnerQuest/leetcode_01/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/LearnerQuest/leetcode_01/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
 ## Tree
 |  |
 | ------- |
@@ -726,6 +728,7 @@ Improve your problem-solving toolkit:
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0724-find-pivot-index) |
