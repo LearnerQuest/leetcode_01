@@ -842,4 +842,8 @@ Improve your problem-solving toolkit:
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/LearnerQuest/leetcode_01/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LearnerQuest/leetcode_01/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
