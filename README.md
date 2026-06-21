@@ -845,5 +845,6 @@ Improve your problem-solving toolkit:
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/LearnerQuest/leetcode_01/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LearnerQuest/leetcode_01/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
