@@ -142,6 +142,7 @@ Improve your problem-solving toolkit:
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LearnerQuest/leetcode_01/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-largest-magic-square](https://github.com/LearnerQuest/leetcode_01/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/LearnerQuest/leetcode_01/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1975-maximum-matrix-sum) |
@@ -295,6 +296,7 @@ Improve your problem-solving toolkit:
 | [0258-add-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0258-add-digits) |
 | [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1929-concatenation-of-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 | [2402-meeting-rooms-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/2402-meeting-rooms-iii) |
