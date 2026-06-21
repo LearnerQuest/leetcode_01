@@ -72,6 +72,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0001-two-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/LearnerQuest/leetcode_01/tree/master/0035-search-insert-position) |
@@ -353,6 +354,7 @@ Improve your problem-solving toolkit:
 | [0005-longest-palindromic-substring](https://github.com/LearnerQuest/leetcode_01/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
