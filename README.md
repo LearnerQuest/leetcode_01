@@ -850,5 +850,6 @@ Improve your problem-solving toolkit:
 | [1068-product-sales-analysis-i](https://github.com/LearnerQuest/leetcode_01/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/LearnerQuest/leetcode_01/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/LearnerQuest/leetcode_01/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1683-invalid-tweets](https://github.com/LearnerQuest/leetcode_01/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LearnerQuest/leetcode_01/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
