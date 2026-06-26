@@ -83,6 +83,7 @@ Improve your problem-solving toolkit:
 | [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/LearnerQuest/leetcode_01/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/LearnerQuest/leetcode_01/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/LearnerQuest/leetcode_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
@@ -221,6 +222,7 @@ Improve your problem-solving toolkit:
 | [0003-longest-substring-without-repeating-characters](https://github.com/LearnerQuest/leetcode_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LearnerQuest/leetcode_01/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/LearnerQuest/leetcode_01/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnerQuest/leetcode_01/tree/master/0138-copy-list-with-random-pointer) |
@@ -258,6 +260,7 @@ Improve your problem-solving toolkit:
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/LearnerQuest/leetcode_01/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0148-sort-list) |
@@ -499,6 +502,7 @@ Improve your problem-solving toolkit:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/LearnerQuest/leetcode_01/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/LearnerQuest/leetcode_01/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0079-word-search) |
