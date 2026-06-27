@@ -883,6 +883,7 @@ Improve your problem-solving toolkit:
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/LearnerQuest/leetcode_01/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/LearnerQuest/leetcode_01/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/LearnerQuest/leetcode_01/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/LearnerQuest/leetcode_01/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LearnerQuest/leetcode_01/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/LearnerQuest/leetcode_01/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LearnerQuest/leetcode_01/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
