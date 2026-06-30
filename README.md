@@ -237,6 +237,7 @@ Improve your problem-solving toolkit:
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -516,6 +517,7 @@ Improve your problem-solving toolkit:
 | [0205-isomorphic-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
+| [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
