@@ -238,6 +238,7 @@ Improve your problem-solving toolkit:
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -519,6 +520,7 @@ Improve your problem-solving toolkit:
 | [0282-expression-add-operators](https://github.com/LearnerQuest/leetcode_01/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -815,6 +817,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
