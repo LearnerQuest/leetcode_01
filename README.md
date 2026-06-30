@@ -97,6 +97,7 @@ Improve your problem-solving toolkit:
 | [0088-merge-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LearnerQuest/leetcode_01/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/LearnerQuest/leetcode_01/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/LearnerQuest/leetcode_01/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/LearnerQuest/leetcode_01/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0136-single-number) |
@@ -226,6 +227,7 @@ Improve your problem-solving toolkit:
 | [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/LearnerQuest/leetcode_01/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/LearnerQuest/leetcode_01/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/LearnerQuest/leetcode_01/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/LearnerQuest/leetcode_01/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/LearnerQuest/leetcode_01/tree/master/0141-linked-list-cycle) |
@@ -905,4 +907,8 @@ Improve your problem-solving toolkit:
 | [1934-confirmation-rate](https://github.com/LearnerQuest/leetcode_01/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/LearnerQuest/leetcode_01/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LearnerQuest/leetcode_01/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/LearnerQuest/leetcode_01/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
