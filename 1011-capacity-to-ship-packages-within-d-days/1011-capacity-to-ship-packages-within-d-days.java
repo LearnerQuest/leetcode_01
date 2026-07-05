@@ -1,40 +1,42 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int low = 0, high = 0;
-        //“What is the minimum ship capacity so that all packages can be shipped in days days?”
+        int left = 0;
+        int right = 0;
 
-        for (int w : weights) {
-            low = Math.max(low, w);   
-            high += w;                
+        for(int w : weights) {
+            left = Math.max(left, w); // max weight
+            right += w;               // total weight
         }
 
-        while (low < high) {
-            int mid = low + (high - low) / 2;
+        int ans = right;
 
-            if (canShip(weights, days, mid))
-                high = mid;      
-            else
-                low = mid + 1;   
+        while(left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if(canShip(weights, days, mid)) {
+                ans = mid;
+                right = mid - 1; // try smaller capacity
+            } else {
+                left = mid + 1;  // need bigger capacity
+            }
         }
 
-        return low;
+        return ans;
     }
 
     private boolean canShip(int[] weights, int days, int capacity) {
-        int dayCount = 1;
+        int usedDays = 1;
         int currentLoad = 0;
 
-        for (int w : weights) {
-            if (currentLoad + w > capacity) {
-                dayCount++;       
+        for(int w : weights) {
+            if(currentLoad + w > capacity) {
+                usedDays++;
                 currentLoad = 0;
             }
-            currentLoad += w;
 
-            if (dayCount > days)
-                return false;    
+            currentLoad += w;
         }
 
-        return true;             
+        return usedDays <= days;
     }
 }
