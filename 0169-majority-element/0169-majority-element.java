@@ -5,7 +5,7 @@ class Solution {
 
         for(int i=0; i<nums.length; i++){
             map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
-            if(map.get(nums[i]) >n/2) return nums[i] ;
+            if(map.get(nums[i]) > n/2) return nums[i] ;
         }
         return -1;
     }
