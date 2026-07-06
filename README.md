@@ -242,6 +242,7 @@ Improve your problem-solving toolkit:
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -526,6 +527,7 @@ Improve your problem-solving toolkit:
 | [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -567,6 +569,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LearnerQuest/leetcode_01/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Backtracking
@@ -823,6 +826,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0169-majority-element](https://github.com/LearnerQuest/leetcode_01/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
 | [3583-count-special-triplets](https://github.com/LearnerQuest/leetcode_01/tree/master/3583-count-special-triplets) |
 ## Brainteaser
 |  |
