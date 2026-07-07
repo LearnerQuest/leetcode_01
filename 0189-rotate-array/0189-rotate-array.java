@@ -1,22 +1,18 @@
 class Solution {
-    void reverse(int[] nums, int start, int end) {
-        while (start < end) {
-            int tmp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = tmp;
-            start++;
-            end--;
-        }
-    }
-
     public void rotate(int[] nums, int k) {
-        int length = nums.length;
-        k %= length;
-        if (k == 0) return;
-
-        int someMid = length - k;
-        reverse(nums, 0, someMid - 1);
-        reverse(nums, someMid, length - 1);
-        reverse(nums, 0, length - 1);
+        int n = nums.length;
+        k %= n;
+        reverse(nums, 0, n-1);//Reverse Whole
+        reverse(nums, 0, k-1);//Reverse First k
+        reverse(nums, k, n-1);//Reverse Remaining
+    }
+    private void reverse(int[] nums, int left, int right){
+        while(left < right){
+            int temp = nums[left];
+            nums[left] = nums[right];
+            nums[right] = temp;
+            left++;
+            right--;
+        }
     }
 }
