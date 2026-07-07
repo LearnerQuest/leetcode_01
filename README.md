@@ -86,6 +86,7 @@ Improve your problem-solving toolkit:
 | [0049-group-anagrams](https://github.com/LearnerQuest/leetcode_01/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/LearnerQuest/leetcode_01/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/LearnerQuest/leetcode_01/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/LearnerQuest/leetcode_01/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/LearnerQuest/leetcode_01/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/LearnerQuest/leetcode_01/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
@@ -329,6 +331,7 @@ Improve your problem-solving toolkit:
 | [0022-generate-parentheses](https://github.com/LearnerQuest/leetcode_01/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LearnerQuest/leetcode_01/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/LearnerQuest/leetcode_01/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/LearnerQuest/leetcode_01/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/LearnerQuest/leetcode_01/tree/master/0070-climbing-stairs) |
