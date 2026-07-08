@@ -115,6 +115,7 @@ Improve your problem-solving toolkit:
 | [0216-combination-sum-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/LearnerQuest/leetcode_01/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0283-move-zeroes) |
@@ -771,6 +772,7 @@ Improve your problem-solving toolkit:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/LearnerQuest/leetcode_01/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
