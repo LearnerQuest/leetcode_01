@@ -116,6 +116,7 @@ Improve your problem-solving toolkit:
 | [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/LearnerQuest/leetcode_01/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/LearnerQuest/leetcode_01/tree/master/0322-coin-change) |
@@ -282,6 +283,7 @@ Improve your problem-solving toolkit:
 | [0217-contains-duplicate](https://github.com/LearnerQuest/leetcode_01/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
 | [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -941,4 +943,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/LearnerQuest/leetcode_01/tree/master/0278-first-bad-version) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
