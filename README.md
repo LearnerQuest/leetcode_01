@@ -568,6 +568,7 @@ Improve your problem-solving toolkit:
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/2032-largest-odd-number-in-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/LearnerQuest/leetcode_01/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -688,6 +689,7 @@ Improve your problem-solving toolkit:
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
 | [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
 ## Divide and Conquer
 |  |
