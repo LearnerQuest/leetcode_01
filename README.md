@@ -142,6 +142,7 @@ Improve your problem-solving toolkit:
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LearnerQuest/leetcode_01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/LearnerQuest/leetcode_01/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/LearnerQuest/leetcode_01/tree/master/1020-number-of-enclaves) |
@@ -292,6 +293,7 @@ Improve your problem-solving toolkit:
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
 | [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -410,6 +412,7 @@ Improve your problem-solving toolkit:
 | [0876-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/LearnerQuest/leetcode_01/tree/master/2497-maximum-matching-of-players-with-trainers) |
