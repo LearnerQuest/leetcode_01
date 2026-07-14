@@ -133,6 +133,7 @@ Improve your problem-solving toolkit:
 | [0724-find-pivot-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
+| [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
@@ -208,6 +209,7 @@ Improve your problem-solving toolkit:
 | [0134-gas-station](https://github.com/LearnerQuest/leetcode_01/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/1975-maximum-matrix-sum) |
@@ -288,6 +290,7 @@ Improve your problem-solving toolkit:
 | [0242-valid-anagram](https://github.com/LearnerQuest/leetcode_01/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LearnerQuest/leetcode_01/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
+| [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [1200-minimum-absolute-difference](https://github.com/LearnerQuest/leetcode_01/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/LearnerQuest/leetcode_01/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -403,6 +406,7 @@ Improve your problem-solving toolkit:
 | [0344-reverse-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/LearnerQuest/leetcode_01/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/0908-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/LearnerQuest/leetcode_01/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LearnerQuest/leetcode_01/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
