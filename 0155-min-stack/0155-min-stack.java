@@ -1,40 +1,38 @@
 class MinStack {
-    private Deque<Integer> st; //stores all elements normally.
-    private Deque<Integer> minst; //stores only values that are current minimums.
-
+    Stack<Integer> stack ;
+    Stack<Integer> minStack;
     public MinStack() {
-        st= new ArrayDeque<>();
-        minst = new ArrayDeque<>();
-
+        stack = new Stack<>();
+        minStack = new Stack<>();
     }
     
-    public void push(int val) {
-        st.push(val);
-         if(minst.isEmpty() || val <= minst.peek()){
-            minst.push(val);
-         }
+    public void push(int value) {
+        stack.push(value);
+        if(minStack.isEmpty() || value <= minStack.peek()){
+            minStack.push(value);
+        }
     }
     
     public void pop() {
-        int x = st.pop();
-        if(x == minst.peek()){
-            minst.pop();
+        int removed = stack.pop();
+        if(removed == minStack.peek()){
+            minStack.pop();
         }
     }
     
     public int top() {
-        return st.peek();
+        return stack.peek();
     }
     
     public int getMin() {
-        return minst.peek();
+        return minStack.peek();
     }
 }
 
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
- * obj.push(val);
+ * obj.push(value);
  * obj.pop();
  * int param_3 = obj.top();
  * int param_4 = obj.getMin();
