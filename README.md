@@ -607,6 +607,7 @@ Improve your problem-solving toolkit:
 | [0225-implement-stack-using-queues](https://github.com/LearnerQuest/leetcode_01/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/LearnerQuest/leetcode_01/tree/master/0933-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/LearnerQuest/leetcode_01/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/LearnerQuest/leetcode_01/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Backtracking
@@ -716,6 +717,7 @@ Improve your problem-solving toolkit:
 | [0225-implement-stack-using-queues](https://github.com/LearnerQuest/leetcode_01/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LearnerQuest/leetcode_01/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/LearnerQuest/leetcode_01/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/LearnerQuest/leetcode_01/tree/master/0933-number-of-recent-calls) |
 ## Tree
 |  |
 | ------- |
@@ -980,4 +982,8 @@ Improve your problem-solving toolkit:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0274-h-index) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/LearnerQuest/leetcode_01/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
