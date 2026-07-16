@@ -134,6 +134,7 @@ Improve your problem-solving toolkit:
 | [0704-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/LearnerQuest/leetcode_01/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
@@ -691,6 +692,7 @@ Improve your problem-solving toolkit:
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/LearnerQuest/leetcode_01/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/LearnerQuest/leetcode_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2211-count-collisions-on-a-road](https://github.com/LearnerQuest/leetcode_01/tree/master/2211-count-collisions-on-a-road) |
@@ -793,6 +795,7 @@ Improve your problem-solving toolkit:
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/LearnerQuest/leetcode_01/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
