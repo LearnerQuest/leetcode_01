@@ -131,6 +131,7 @@ Improve your problem-solving toolkit:
 | [0540-single-element-in-a-sorted-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/LearnerQuest/leetcode_01/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/LearnerQuest/leetcode_01/tree/master/0733-flood-fill) |
@@ -835,6 +836,7 @@ Improve your problem-solving toolkit:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LearnerQuest/leetcode_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
