@@ -139,6 +139,7 @@ Improve your problem-solving toolkit:
 | [0739-daily-temperatures](https://github.com/LearnerQuest/leetcode_01/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LearnerQuest/leetcode_01/tree/master/0792-binary-search) |
 | [0881-boats-to-save-people](https://github.com/LearnerQuest/leetcode_01/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/LearnerQuest/leetcode_01/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/LearnerQuest/leetcode_01/tree/master/0907-koko-eating-bananas) |
 | [0944-delete-columns-to-make-sorted](https://github.com/LearnerQuest/leetcode_01/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/LearnerQuest/leetcode_01/tree/master/0946-validate-stack-sequences) |
@@ -264,6 +265,7 @@ Improve your problem-solving toolkit:
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/LearnerQuest/leetcode_01/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0904-fruit-into-baskets](https://github.com/LearnerQuest/leetcode_01/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/LearnerQuest/leetcode_01/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/LearnerQuest/leetcode_01/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -842,6 +844,7 @@ Improve your problem-solving toolkit:
 | [0209-minimum-size-subarray-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/LearnerQuest/leetcode_01/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/LearnerQuest/leetcode_01/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/LearnerQuest/leetcode_01/tree/master/1370-count-number-of-nice-subarrays) |
