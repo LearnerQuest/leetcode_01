@@ -262,6 +262,7 @@ Improve your problem-solving toolkit:
 | [0290-word-pattern](https://github.com/LearnerQuest/leetcode_01/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/LearnerQuest/leetcode_01/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/LearnerQuest/leetcode_01/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LearnerQuest/leetcode_01/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
@@ -572,6 +573,7 @@ Improve your problem-solving toolkit:
 | [0387-first-unique-character-in-a-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/LearnerQuest/leetcode_01/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/LearnerQuest/leetcode_01/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/LearnerQuest/leetcode_01/tree/master/0424-longest-repeating-character-replacement) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/LearnerQuest/leetcode_01/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/LearnerQuest/leetcode_01/tree/master/0756-pyramid-transition-matrix) |
 | [0812-rotate-string](https://github.com/LearnerQuest/leetcode_01/tree/master/0812-rotate-string) |
@@ -846,6 +848,7 @@ Improve your problem-solving toolkit:
 | [0003-longest-substring-without-repeating-characters](https://github.com/LearnerQuest/leetcode_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LearnerQuest/leetcode_01/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/LearnerQuest/leetcode_01/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/LearnerQuest/leetcode_01/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/LearnerQuest/leetcode_01/tree/master/0904-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/LearnerQuest/leetcode_01/tree/master/0966-binary-subarrays-with-sum) |
