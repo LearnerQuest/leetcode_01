@@ -941,6 +941,7 @@ Improve your problem-solving toolkit:
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/LearnerQuest/leetcode_01/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/LearnerQuest/leetcode_01/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/LearnerQuest/leetcode_01/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/LearnerQuest/leetcode_01/tree/master/0185-department-top-three-salaries) |
